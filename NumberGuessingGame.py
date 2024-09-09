@@ -18,5 +18,5 @@ while guess != rnd_number:
         guess = int(input("Enter a smaller number: "))
 
 print(" _________________________")
-print("| Congrulations, you won. |")
+print("| Congratulations, you won. |")
 print(" ^^^^^^^^^^^^^^^^^^^^^^^^^_")
